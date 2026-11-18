@@ -6,20 +6,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/shandian) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-闪电鼠（ShanDian）于 **2024 年**开始运营，采用 **VLESS 协议**，提供自研客户端。其**限时钜惠小包为 ¥96/年、60GB/月**，折合原价 **¥8/月**，适合预算较低、流量需求不大的轻度用户；常规套餐月付 **¥22 起、120GB/月**，可按用量选择。
-
 > [!NOTE]
 > **30 秒看懂闪电鼠(ShanDian)**
 >
-> - **小流量年付**：限时钜惠小包 ¥96/年、60GB/月，仅提供年付。
-> - **常规月付**：轻快 ¥22/月、120GB；疾速 ¥40/月、250GB；雷霆 ¥70/月、500GB。
-> - **月付优惠**：`sd88` 享 7 折，仅限月付，月付限时版不可用。
-> - **专属优惠**：`eoth01` 享 8 折，与月付活动码分别核对适用条件，不默认叠加。
-> - **线路与设备**：小包标注 IPLC，常规套餐标注 IEPL；均标注 1 倍率、不限设备、不限速。
-> - **订阅与支付**：第三方订阅导入需联系官方客服；支持支付宝、微信支付、USDT。
+> [访问官网](https://eoht.net/serve/airport/shandian) · [查看套餐与优惠码](#shandian-vpn-plans) · [查看测速图](#shandian-speed-test) · [查看解锁图](#shandian-unlock-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐与优惠码](#shandian-vpn-plans) · [查看测速图](#shandian-speed-test) · [查看解锁图](#shandian-unlock-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：小包 ¥96/年、60GB/月，仅年付；常规轻快版 ¥22/月、120GB/月。
+> - **线路与订阅**：小包 IPLC、常规套餐 IEPL，均标注 1 倍率、不限设备、不限速；提供自研客户端。
+> - **优惠限制**：`sd88` 月付 7 折，**月付限时版不可用**；`eoth01` 专属 8 折，分别核对适用条件，**不默认叠加**。
 >
+
+闪电鼠（ShanDian）于 **2024 年**开始运营，采用 **VLESS 协议**，提供自研客户端。其**限时钜惠小包为 ¥96/年、60GB/月**，折合原价 **¥8/月**，适合预算较低、流量需求不大的轻度用户；常规套餐月付 **¥22 起、120GB/月**，可按用量选择。
 
 <a id="shandian-official-website"></a>
 
